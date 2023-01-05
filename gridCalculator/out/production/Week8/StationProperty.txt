@@ -1,0 +1,5 @@
+3					
+ID	NAME	SID	X	Y	enname
+1	黄龙带	C1	473425.1	2629413.9	huanglongdai
+2	联星	C2	472500.8	2636533.9	lianxing
+3	枫木塱	C3	477033.9	2636002.1	fengmulang

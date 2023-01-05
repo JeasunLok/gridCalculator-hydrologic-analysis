@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gridCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gridCalculator_jar</output-path>
+    <root id="archive" name="gridCalculator.jar">
+      <element id="module-output" name="gridCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/Jama-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Jama-1.0.3" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.30" />
+    </root>
+  </artifact>
+</component>
